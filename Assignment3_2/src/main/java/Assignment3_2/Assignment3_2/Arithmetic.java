@@ -15,6 +15,6 @@ public class Arithmetic {
 	public static void main(String[] args )
 	{
 		int result = add(4,3);
-		System.out.printIn( "Sum = " + result);
+		System.out.println( "Sum = " + result);
 	}
 }
